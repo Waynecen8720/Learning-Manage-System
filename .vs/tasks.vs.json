@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Extensions",
+      "appliesTo": "BL/Util/Extensions.cs",
+      "type": "launch"
+    }
+  ]
+}
